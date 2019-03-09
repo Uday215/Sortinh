@@ -1,5 +1,7 @@
 package com.uday.bubblesort
 
-object BubbleSort {
+object BubbleSort extends App{
+  
+  println("this is the commit")
   
 }
